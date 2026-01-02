@@ -1,19 +1,29 @@
-# Ferdinando Ciotola - PHP Developer
+# 👋 Ciao, sono Ferdinando Ciotola
 
-Developer con 5+ anni esperienza IT professionale. Specializzato in PHP, Laravel, MySQL.
+## 💼 PHP Developer | Database Specialist | Gestionale Aziendali
 
-## 🚀 Progetti Online
+Con 5+ anni di esperienza professionale nello sviluppo di applicazioni web e database per PMI, 
+specializzato in gestionali aziendali (magazzino, clienti, fornitori, tracciabilità).
 
-- **[Task Manager](http://159.69.125.94:8080/tasks)** - Laravel CRUD app con autenticazione
-- **[Blog API](http://159.69.125.94/api/posts)** - RESTful API con Laravel Sanctum
-- **[Bot Telegram](https://t.me/MegaOfferteBot)** - Automazione deals Amazon API
+### 🚀 Competenze Principali
+- **Backend:** PHP (20+ anni), Laravel 11, MySQL 8
+- **Database:** Design, ottimizzazione, relazioni complesse
+- **DevOps:** Linux Ubuntu, Nginx, VPS management
+- **Tools:** Git/GitHub, Composer, VS Code
 
-## 🛠️ Tech Stack
+### 📫 Contatti
+- **Email:** nandociotola@gmail.com
+- **LinkedIn:** [ferdinando-ciotola](https://linkedin.com/in/ferdinando-ciotola)
+- **Telefono:** 320 81 76 862
+- **Località:** Napoli, Campania
 
-`PHP 8.3` `Laravel 11` `MySQL` `Git` `Linux` `Nginx` `API RESTful`
+### 🎯 Progetti in evidenza
+Tutti i progetti sono deployati e funzionanti online:
 
-## 📫 Contatti
+- 📝 **[Task Manager](https://github.com/ferdinandociotola/task-manager)** - Applicazione CRUD completa con dashboard
+- 🔐 **[Blog API](https://github.com/ferdinandociotola/blog-api)** - RESTful API con autenticazione token
+- 🤖 **Telegram Bot** - Automazione deals Amazon (privato)
 
-- 📧 nandociotola@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/ferdinando-ciotola)
-- 🌐 Napoli, Italia
+---
+
+💡 **Disponibile per posizioni Developer o IT Manager in PMI Campania**
